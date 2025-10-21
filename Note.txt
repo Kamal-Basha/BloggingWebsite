@@ -1,0 +1,6 @@
+npm install express
+npm nodemon
+
+npm cors - cross origin 
+
+npm install cors - it is used to port from to all(5713 to 3000) 
