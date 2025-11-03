@@ -24,7 +24,7 @@ function Registration() {
     }
 
     function register() {
-      fetch('https://kamal-basha-bloggingwebsite.netlify.app//user/registration',{
+      fetch('https://kamal-basha-bloggingwebsite.netlify.app/user/registration',{
         method: 'POST',
         headers: {
           "Content-Type": "application/json",
